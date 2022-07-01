@@ -14,7 +14,7 @@
     "issues": "https://github.com/DaFuqs/ChalkColorful/issues"
   },
   "license": "MIT",
-  "icon": "assets/chalk-colorful-addon/orange_chalk.png",
+  "icon": "assets/chalk-colorful-addon/icon.png",
   "environment": "*",
   "entrypoints": {
 
