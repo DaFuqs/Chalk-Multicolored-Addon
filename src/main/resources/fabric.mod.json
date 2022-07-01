@@ -3,7 +3,7 @@
   "id": "chalk-colorful-addon",
   "version": "${version}",
   "name": "Chalk: Colorful-Addon",
-  "description": "Fabric port of the forge mod chalk by mortuusars with some additions",
+  "description": "Colorful Chalk for the Chalk mod",
   "authors": [
     "DaFuqs",
     "mortuusars"
