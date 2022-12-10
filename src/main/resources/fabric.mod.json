@@ -21,8 +21,6 @@
   },
   "mixins": [],
   "depends": {
-    "fabricloader": ">=0.14.8",
-    "minecraft": ">=1.19.0",
-    "chalk": ">=2.1.0"
+    "chalk": "*"
   }
 }
